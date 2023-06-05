@@ -512,10 +512,10 @@ footer .Copyright{
     background-color: #eff3f6;
     background-image: url("img/hero4.png");
     height: 90vh;
-    width:100%;
+    width:50%;
     background-size: cover;
     background-position: top 25% right;
-    padding: 0 80px;
+    padding: 0 40px;
     align-items: flex-start;
     flex-direction: column;
     justify-items: center;
