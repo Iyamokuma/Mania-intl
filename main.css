@@ -508,6 +508,18 @@ footer .Copyright{
     .header{
         padding: 0 40px;
     }
+    #Hero{
+    background-color: #eff3f6;
+    background-image: url("img/hero4.png");
+    height: 90vh;
+    width:100%;
+    background-size: cover;
+    background-position: top 25% right;
+    padding: 0 80px;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-items: center;
+}
     .hamburger{
         display:block;
         cursor: pointer;
