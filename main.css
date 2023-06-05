@@ -505,6 +505,9 @@ footer .Copyright{
     }
 }
 @media only screen and (max-width: 900px) {
+    .header{
+        padding: 0 40px;
+    }
     .hamburger{
         display:block;
         cursor: pointer;
