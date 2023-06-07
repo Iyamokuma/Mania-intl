@@ -137,6 +137,7 @@ body{
 
 /* Home page */
 #Hero{
+    background-color:white;
     object-fit: cover;
     height: 90vh;
     width:100%;
