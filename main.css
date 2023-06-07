@@ -138,7 +138,6 @@ body{
 /* Home page */
 #Hero{
     background-color: #eff3f6;
-    background-image: url("img/hero4.png");
     height: 50px;
     width:100%;
     background-size: auto;
