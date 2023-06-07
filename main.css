@@ -86,7 +86,7 @@ body{
     
     padding: 0px;
     height: 100px;
-    width: 150px;
+    width: 200px;
 }
 
 .hamburger{
@@ -137,7 +137,7 @@ body{
 
 /* Home page */
 #Hero{
-    background-color:white;
+    background-color:#041c4c;
     object-fit: cover;
     height: 90vh;
     width:100%;
