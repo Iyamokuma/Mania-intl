@@ -141,7 +141,7 @@ body{
     background-image: url("img/hero4.png");
     height: 90vh;
     width:100%;
-    background-size: cover;
+    background-size: auto;
     background-position: top 25% right;
     padding: 0 80px;
     align-items: flex-start;
