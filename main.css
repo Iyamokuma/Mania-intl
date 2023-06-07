@@ -147,6 +147,9 @@ body{
     flex-direction: column;
     justify-items: center;
 }
+.hero-pic{
+    width:50px;
+}
 #Hero h4{
    padding-bottom: 15px; 
 }
